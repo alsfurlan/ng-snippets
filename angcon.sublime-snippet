@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+(function() {
+	'use strict';
+
+	/**
+	 * @ngdoc function
+	 * @name ${1:moduleName}.controller:${2:Name}Controller
+	 * @description
+	 * # ${2:Name}Controller
+	 * ${3:Controller of the ${1:moduleName}}
+	 */
+	angular
+	  .module('${1:moduleName}')
+	  .controller('${2:Name}Controller', ${2:Name}Controller)
+
+	${2:Name}Controller.\$inject = ['${4:dependencies}'];
+
+	function ${2:Name}Controller(${4:dependencies}) {
+		var viewModel = this;
+		${5://content}
+	}
+})();
+]]>
+	</content>
+   	<tabTrigger>angcon</tabTrigger> 	
+	<scope>source.js</scope>
+</snippet>
