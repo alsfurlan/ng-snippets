@@ -18,7 +18,14 @@
 
 	function ${2:Name}Controller(${4:dependencies}) {
 		var viewModel = this;
+		viewModel.init = init;
 		${5://content}
+
+		init();
+
+		function init() {
+
+		}
 	}
 })();
 ]]>
