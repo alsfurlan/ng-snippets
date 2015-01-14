@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+
+(function() {
+	'use strict';
+	/**
+	 * @ngdoc overview
+	 * @name ${1:moduleName}
+	 * @description
+	 * # ${1:moduleName}
+	 *
+	 * Constants do ${1:moduleName}
+	 */
+	angular
+	  .module('${1:moduleName}')
+	  .constant('${2:constante}', '${3:value}');
+})();
+
+]]>
+	</content>
+   	<tabTrigger>angcst</tabTrigger> 	
+	<scope>source.js</scope>
+</snippet>
