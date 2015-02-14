@@ -17,9 +17,9 @@
 	function ${2:Name}() {
 		return{
 			restrict: 'EA',
-			templateUrl: ${3:templateUrl},
-			controller: ${4:controller}Controller,
-			controllerAs: ${5:controllerAs}
+			templateUrl: '${3:templateUrl}',
+			controller: '${4:controller}Controller',
+			controllerAs: '${5:controllerAs}'
 		};
 	}
 })();
