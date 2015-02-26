@@ -8,15 +8,15 @@
 	 * @name ${1:moduleName}.factory:${2:Name}Service
 	 * @description
 	 * # ${2:Name}Service
-	 * ${3:Service of the ${1:moduleName}}
+	 * ${3:Factory of the ${1:moduleName}}
 	 */
 	angular
 	  .module('${1:moduleName}')
-	  .factory('${2:Name}Service', ${2:Name}Service)
+	  .factory('${2:Name}Factory', ${2:Name}Factory)
 
-	${2:Name}Service.\$inject = ['${4:dependencies}'];
+	${2:Name}Factory.\$inject = ['${4:dependencies}'];
 
-	function ${2:Name}Service(${4:dependencies}) {
+	function ${2:Name}Factory(${4:dependencies}) {
 		${5://content}
 	}
 })();
