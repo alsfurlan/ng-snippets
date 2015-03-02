@@ -8,7 +8,7 @@
 	 * @name ${1:moduleName}.service:${2:Name}Service
 	 * @description
 	 * # ${2:Name}Service
-	 * ${3:Factory of the ${1:moduleName}}
+	 * ${3:Service of the ${1:moduleName}}
 	 */
 	angular
 	  .module('${1:moduleName}')
