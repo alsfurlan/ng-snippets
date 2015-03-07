@@ -15,13 +15,13 @@ git clone https://github.com/alsfurlan/ng-snippets.git
 Para rodar o snippets basta digitar os atalhos abaixo em um arquivo com extensão ".js"
 
 ```shell
-ng-config
-ng-constant
-ng-controller
-ng-directive
-ng-factory
-ng-module
-ng-service
+ngconfig
+ngconstant
+ngcontroller
+ngdirective
+ngfactory
+ngmodule
+ngservice
 ```
 
 ## License
