@@ -22,6 +22,6 @@
 })();
 ]]>
 	</content>
-   	<tabTrigger>angcfg</tabTrigger> 	
+   	<tabTrigger>ng-config</tabTrigger> 	
 	<scope>source.js</scope>
 </snippet>

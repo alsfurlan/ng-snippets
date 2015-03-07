@@ -22,6 +22,6 @@
 })();
 ]]>
 	</content>
-   	<tabTrigger>angser</tabTrigger> 	
+   	<tabTrigger>ng-service</tabTrigger> 	
 	<scope>source.js</scope>
 </snippet>

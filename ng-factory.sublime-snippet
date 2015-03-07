@@ -22,6 +22,6 @@
 })();
 ]]>
 	</content>
-   	<tabTrigger>angfac</tabTrigger> 	
+   	<tabTrigger>ng-factory</tabTrigger> 	
 	<scope>source.js</scope>
 </snippet>

@@ -25,6 +25,6 @@
 })();
 ]]>
 	</content>
-   	<tabTrigger>angdir</tabTrigger> 	
+   	<tabTrigger>ng-directive</tabTrigger> 	
 	<scope>source.js</scope>
 </snippet>

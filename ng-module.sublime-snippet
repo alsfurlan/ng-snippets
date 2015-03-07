@@ -17,6 +17,6 @@
 })();
 ]]>
 	</content>
-   	<tabTrigger>angapp</tabTrigger> 	
+   	<tabTrigger>ng-module</tabTrigger> 	
 	<scope>source.js</scope>
 </snippet>

@@ -29,6 +29,6 @@
 })();
 ]]>
 	</content>
-   	<tabTrigger>angcon</tabTrigger> 	
+   	<tabTrigger>ng-controller</tabTrigger> 	
 	<scope>source.js</scope>
 </snippet>
