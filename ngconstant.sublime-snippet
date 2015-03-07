@@ -5,15 +5,15 @@
 	'use strict';
 	/**
 	 * @ngdoc overview
-	 * @name ${1:moduleName}
+	 * @name ${1:module}
 	 * @description
-	 * # ${1:moduleName}
+	 * # ${1:module}
 	 *
-	 * Constants do ${1:moduleName}
+	 * Constants do ${1:module}
 	 */
 	angular
-	  .module('${1:moduleName}')
-	  .constant('${2:constante}', '${3:value}');
+	  .module('${1:module}')
+	  .constant('${2:constant}', '${3:value}');
 })();
 
 ]]>

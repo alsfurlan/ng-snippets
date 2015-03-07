@@ -5,13 +5,13 @@
 
 	/**
 	 * @ngdoc function
-	 * @name ${1:moduleName}
+	 * @name ${1:module}
 	 * @description
 	 * # ${2:Name}Configuration
-	 * ${3:Configuration of the ${1:moduleName}}
+	 * ${3:Configuration of the ${1:module}}
 	 */
 	angular
-	  .module('${1:moduleName}')
+	  .module('${1:module}')
 	  .config(${2:Name}Configuration);
 
 	${2:Name}Configuration.\$inject = ['${4:dependencies}'];
