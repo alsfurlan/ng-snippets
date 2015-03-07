@@ -12,7 +12,7 @@ git clone https://github.com/alsfurlan/ng-snippets.git
 
 ## Snippets
 
-Para rodar o snippets basta digitar os atalhos abaixo em um arquivo com extensão ".js"
+Para rodar o snippets digite os atalhos abaixo em um arquivo com extensão ".js"
 
 ```shell
 ngconfig
