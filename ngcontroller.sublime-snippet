@@ -5,14 +5,14 @@
 
 	/**
 	 * @ngdoc function
-	 * @name ${1:moduleName}.controller:${2:Name}Controller
+	 * @name ${1:module}.controller:${2:Name}Controller
 	 * @description
 	 * # ${2:Name}Controller
-	 * ${3:Controller of the ${1:moduleName}}
+	 * ${3:Controller of the ${1:module}}
 	 */
 	angular
-	  .module('${1:moduleName}')
-	  .controller('${2:Name}Controller', ${2:Name}Controller)
+	  .module('${1:module}')
+	  .controller('${2:Name}Controller', ${2:Name}Controller);
 
 	${2:Name}Controller.\$inject = ['${4:dependencies}'];
 

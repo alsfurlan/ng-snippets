@@ -5,13 +5,13 @@
 
 	/**
 	 * @ngdoc function
-	 * @name ${1:moduleName}.service:${2:Name}Service
+	 * @name ${1:module}.service:${2:Name}Service
 	 * @description
 	 * # ${2:Name}Service
-	 * ${3:Service of the ${1:moduleName}}
+	 * ${3:Service of the ${1:module}}
 	 */
 	angular
-	  .module('${1:moduleName}')
+	  .module('${1:module}')
 	  .service('${2:Name}Service', ${2:Name}Service);
 
 	${2:Name}Service.\$inject = ['${4:dependencies}'];

@@ -5,16 +5,16 @@
 
 	/**
 	 * @ngdoc function
-	 * @name ${1:moduleName}.directive:${2:Name}
+	 * @name ${1:module}.directive:${2:moduleName}
 	 * @description
-	 * # ${2:Name}
-	 * ${2:Name} of the ${1:moduleName}}
+	 * # ${2:moduleName}
+	 * ${2:moduleName} of the ${1:module}}
 	 */
 	angular
-	  .module('${1:moduleName}')
-	  .directive('${2:Name}', ${2:Name});
+	  .module('${1:module}')
+	  .directive('${2:moduleName}', ${2:moduleName}Directive);
 
-	function ${2:Name}() {
+	function ${2:moduleName}Directive() {
 		return{
 			restrict: 'EA',
 			templateUrl: '${3:templateUrl}',
