@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 (function() {
-	'use strict';
+	'use strict';''
 
 	/**
 	 * @ngdoc function
