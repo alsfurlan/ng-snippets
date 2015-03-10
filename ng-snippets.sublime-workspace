@@ -316,10 +316,26 @@
 	"buffers":
 	[
 		{
+			"file": "ngmodule.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ngservice.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 1695,
+				"buffer_size": 577,
 				"line_ending": "Windows"
 			}
 		},
@@ -516,20 +532,20 @@
 	],
 	"file_history":
 	[
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngfactory.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngconstant.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngdirective.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngcontroller.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/README.md",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngconfig.sublime-snippet",
 		"/V/products/Compras/trunk/app/app/ctr/_modelo/modelo.controller.js",
 		"/V/products/Compras/trunk/app/app/ctr/_modelo/teste.js",
 		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/cl.sublime-snippet",
 		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Documents/RDF_Example.xml",
-		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/README.md",
-		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngconfig.sublime-snippet",
-		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngconstant.sublime-snippet",
-		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngdirective.sublime-snippet",
 		"/V/products/Compras/trunk/app/environments/test.json",
 		"/V/products/Compras/trunk/app/node_modules/grunt-ngdocs/node_modules/shelljs/src/toEnd.js",
 		"/V/products/Compras/trunk/app/app/ctr/utils/tracker.factory.js",
 		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngservice.sublime-snippet",
-		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngfactory.sublime-snippet",
-		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngcontroller.sublime-snippet",
 		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngfactory.sublime-snippet",
 		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngservice.sublime-snippet",
 		"/V/products/Compras/trunk/app/app/ctr/material/material.service.js",
@@ -671,6 +687,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"	\n",
 			"moduleName",
 			"Service",
 			"EspecificacaoService",
@@ -797,8 +814,7 @@
 			"console.",
 			"sortable",
 			"Adicionando",
-			"Editando",
-			"unidadeMedida"
+			"Editando"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -845,24 +861,82 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "ngmodule.sublime-snippet",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1695,
+						"buffer_size": 230,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								494,
-								494
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ngservice.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
 							]
 						],
 						"settings":
@@ -877,7 +951,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 3,
 					"file": "ng-snippets.sublime-project",
 					"semi_transient": true,
 					"settings":
