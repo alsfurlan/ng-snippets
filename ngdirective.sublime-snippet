@@ -3,13 +3,6 @@
 (function() {
 	'use strict';
 
-	/**
-	 * @ngdoc function
-	 * @name ${1:module}.directive:${2:directive}
-	 * @description
-	 * # ${2:directive}
-	 * ${2:directive} of the ${1:module}
-	 */
 	angular
 	  .module('${1:module}')
 	  .directive('${1:module}${2:directive}', ${2:directive}Directive);

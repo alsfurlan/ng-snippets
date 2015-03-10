@@ -3,13 +3,6 @@
 (function() {
 	'use strict';
 
-	/**
-	 * @ngdoc function
-	 * @name ${1:module}.service:${2:Name}Service
-	 * @description
-	 * # ${2:Name}Service
-	 * ${3:Service of the ${1:module}}
-	 */
 	angular
 	  .module('${1:module}')
 	  .service('${2:Name}Service', ${2:Name}Service);

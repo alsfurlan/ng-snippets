@@ -3,13 +3,6 @@
 (function() {
 	'use strict';
 
-	/**
-	 * @ngdoc function
-	 * @name ${1:module}.factory:${2:Name}Factory
-	 * @description
-	 * # ${2:Name}Factory
-	 * ${3:Factory of the ${1:module}}
-	 */
 	angular
 	  .module('${1:module}')
 	  .factory('${2:Name}Factory', ${2:Name}Factory);

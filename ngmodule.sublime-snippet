@@ -2,14 +2,7 @@
 	<content><![CDATA[
 (function() {
 	'use strict';
-	/**
-	 * @ngdoc overview
-	 * @name ${1:module}
-	 * @description
-	 * # ${1:module}
-	 *
-	 * ${2:description}
-	 */
+
 	angular
 	  .module('${1:module}', [
 	      '${3:dependencies}'

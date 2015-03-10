@@ -1,0 +1,1512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng",
+				"ngconfig	ngconfig"
+			],
+			[
+				"ngdocs",
+				"ngdocs-ctrl-method	ngdocs-ctrl-method"
+			],
+			[
+				"ngodcs",
+				"ngdocs-directive	ngdocs-directive"
+			],
+			[
+				"ngdoc",
+				"ngdocs-controller	ngdocs-controller"
+			],
+			[
+				"ngo",
+				"ngdocs-controller	ngdocs-controller"
+			],
+			[
+				"liste",
+				"listeningSolicitacaoCompraCadSaveItem"
+			],
+			[
+				"solicita",
+				"solicitacao"
+			],
+			[
+				"list",
+				"function listeningItensSave	()"
+			],
+			[
+				"listenin",
+				"listeningSolicitacaoCadSave"
+			],
+			[
+				"send",
+				"sendRequestSaveItem"
+			],
+			[
+				"save",
+				"saveAndAdd"
+			],
+			[
+				"Solic",
+				"SolicitacaoCompraService"
+			],
+			[
+				"mate",
+				"materialEspecif"
+			],
+			[
+				"for",
+				"forin	for in own properties"
+			],
+			[
+				"Sol",
+				"SolicitacaoCompraService"
+			],
+			[
+				"solici",
+				"solicitacao"
+			],
+			[
+				"act",
+				"actionChange"
+			],
+			[
+				"set",
+				"setItens"
+			],
+			[
+				"ite",
+				"itens"
+			],
+			[
+				"uni",
+				"unidadeMedida"
+			],
+			[
+				"cha",
+				"changeUnidadeMedida"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"valo",
+				"valorTotal"
+			],
+			[
+				"show",
+				"showWarning"
+			],
+			[
+				"mta",
+				"materialId"
+			],
+			[
+				"Materi",
+				"MaterialSelect"
+			],
+			[
+				"sol",
+				"solicitacaoItemType"
+			],
+			[
+				"espe",
+				"especificacoes"
+			],
+			[
+				"ang",
+				"angdir	angdir"
+			],
+			[
+				"angc",
+				"angcst	angcst"
+			],
+			[
+				"soli",
+				"solicitacaoItemType"
+			],
+			[
+				"select",
+				"select2Config"
+			],
+			[
+				"Material",
+				"MaterialSelect"
+			],
+			[
+				"sele",
+				"select	Event"
+			],
+			[
+				"vi",
+				"viewModel"
+			],
+			[
+				"MaterialService",
+				"function MaterialService	($q, Restangular)"
+			],
+			[
+				"singl",
+				"singleMethod"
+			],
+			[
+				"getMe",
+				"getMethod"
+			],
+			[
+				"materi",
+				"materialId"
+			],
+			[
+				"initSelec",
+				"initSelect3"
+			],
+			[
+				"Mate",
+				"MaterialService"
+			],
+			[
+				"MaterialSe",
+				"MaterialService"
+			],
+			[
+				"Select2",
+				"Select2Factory"
+			],
+			[
+				"Mater",
+				"MaterialSelect"
+			],
+			[
+				"configura",
+				"configuracoes_organogramaId"
+			],
+			[
+				"init",
+				"initProperties"
+			],
+			[
+				"cal",
+				"calculaTotal"
+			],
+			[
+				"actionSave",
+				"actionSaveAndAdd"
+			],
+			[
+				"action",
+				"actionSaveOnly"
+			],
+			[
+				"item",
+				"itemRemove"
+			],
+			[
+				"isSearch",
+				"isSearchEmpty"
+			],
+			[
+				"isDefin",
+				"angular.isDefined"
+			],
+			[
+				"ItensS",
+				"ItensSolicitacaoCompraService"
+			],
+			[
+				"itesn",
+				"initItensSolicitacaoCompra"
+			],
+			[
+				"con",
+				"configuracaoOrganogramaSelected"
+			],
+			[
+				"numero",
+				"numeroFormatadoReduzido"
+			],
+			[
+				"conf",
+				"configuracaoOrganograma"
+			],
+			[
+				"configuracao",
+				"configuracaoOrganogramaSelected"
+			],
+			[
+				"Configura",
+				"ConfiguracaoOrganogramaService"
+			],
+			[
+				"ad",
+				"addressComponents"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"pas",
+				"password	URLUtils"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"$log",
+				"angular: $log.info"
+			],
+			[
+				"function",
+				"new Function()	Function"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"restangul",
+				"RestangularCEP"
+			],
+			[
+				"angcon",
+				"angcon	angcon"
+			],
+			[
+				"angul",
+				"angular.copy"
+			],
+			[
+				"open",
+				"open_automatically"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"lab",
+				"label	<label>"
+			],
+			[
+				"tab",
+				"tabConversation"
+			],
+			[
+				"appen",
+				"appendTo	.appendTo()"
+			],
+			[
+				"tarefa",
+				"tarefaSchema"
+			],
+			[
+				"brewer",
+				"breweries"
+			],
+			[
+				"brer",
+				"brewery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ng-snippets.sublime-project",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"IP",
+				"Package Control: Install Package"
+			],
+			[
+				"JSHI",
+				"JSHint"
+			],
+			[
+				"RP",
+				"Package Control: Remove Package"
+			],
+			[
+				"UP",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"JHINT",
+				"JSHint"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"LP",
+				"Package Control: List Packages"
+			],
+			[
+				"Grun",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"Grunt",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"Grunt ser",
+				"Preferences: Grunt - Settings – User"
+			],
+			[
+				"GRUn",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"J",
+				"JSHint"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Grunt:",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"Pacakges",
+				"Package Control: List Packages"
+			],
+			[
+				"Pacakages",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"Remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"POackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Emm",
+				"Emmet: Merge Lines"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"iNSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"iN",
+				"Package Control: Install Package"
+			],
+			[
+				"iNSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"iNSTL",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Inslta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 473.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets"
+	],
+	"file_history":
+	[
+		"/V/products/Compras/trunk/app/app/ctr/_modelo/modelo.controller.js",
+		"/V/products/Compras/trunk/app/app/ctr/_modelo/teste.js",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/cl.sublime-snippet",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Documents/RDF_Example.xml",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/README.md",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngconfig.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngconstant.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngdirective.sublime-snippet",
+		"/V/products/Compras/trunk/app/environments/test.json",
+		"/V/products/Compras/trunk/app/node_modules/grunt-ngdocs/node_modules/shelljs/src/toEnd.js",
+		"/V/products/Compras/trunk/app/app/ctr/utils/tracker.factory.js",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngservice.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngfactory.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/ng-snippets/ngcontroller.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngfactory.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngservice.sublime-snippet",
+		"/V/products/Compras/trunk/app/app/ctr/material/material.service.js",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngmodule.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngdirective.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/README.md",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngcontroller.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngconstant.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ngconfig.sublime-snippet",
+		"/V/products/Compras/trunk/app/Gruntfile.js",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ng-factory.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/ng-service.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/angmod.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/th.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/angdir.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/angcst.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/angcon.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/angcfg.sublime-snippet",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/angapp.sublime-snippet",
+		"/V/products/Compras/trunk/app/app/ctr/ctr.base.js",
+		"/V/products/Compras/trunk/app/app/ctr/ctr.states.js",
+		"/C/Users/anderson.furlan/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-Sublime-Text-Snippets/angser.sublime-snippet",
+		"/V/products/Compras/trunk/app/app/ctr/_modelo/modelo.module.js",
+		"/V/products/Compras/trunk/app/app/ctr/material/material.module.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens.controller.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens-cad.controller.js",
+		"/V/products/Compras/trunk/app/app/common/app.states.js",
+		"/V/products/Compras/trunk/app/reports/plato-report/index.html",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao-compra-cad.controller.js",
+		"/V/products/Compras/trunk/app/app/common/app.config.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao/solicitacao-cad.controller.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens-cad.html",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens.html",
+		"/V/products/Compras/trunk/app/app/index.html.tmpl",
+		"/V/products/Compras/trunk/app/node_modules/grunt-preprocess/tmp/test-inline-expected.js",
+		"/V/products/Compras/trunk/app/node_modules/karma-jasmine/integration-tests.sh",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao-compra-cad.html",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao-compra.service.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao-compra.html",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/common/states.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens.service.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/index.html.tmpl",
+		"/V/products/Compras/trunk/app/app/index.html",
+		"/V/products/Compras/trunk/app/node_modules/grunt-json-server/node_modules/superagent/node_modules/formidable/test/legacy/integration/test-multipart-parser.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao-compra.controller.js",
+		"/V/products/Compras/trunk/app/app/welcome/index.html",
+		"/V/products/Compras/trunk/app/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/input-datetime.json",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens-solicitacao-compra-cad.controller.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens-solicitacao-compra.controller.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens-solicitacao-compra-cad.html",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens-solicitacao-compra.html",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/itens/itens-solicitacao-compra.service.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao/solicitacao-cad.html",
+		"/V/products/Compras/trunk/app/node_modules/grunt-plato/test/ignore_this_files_in_plato",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/components/angular-i18n/angular-locale_it-it.js",
+		"/V/products/Compras/trunk/app/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/IWebSocketLogger.as",
+		"/C/wildfly-8.2.0.Final/standalone/configuration/standalone.xml",
+		"/C/wildfly-8.2.0.Final/standalone/configuration/standalone-full.xml",
+		"/C/wildfly-8.2.0.Final/standalone/configuration/standalone-full-ha.xml",
+		"/V/products/Compras/trunk/app/db.json",
+		"/V/products/Compras/trunk/app/node_modules/grunt-json-server/node_modules/json-server/node_modules/minimist/test/default_bool.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao/solicitacao-cad.service.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.compat.js",
+		"/V/products/Compras/trunk/app/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/components/learnboost-engine.io-client/component.json",
+		"/V/products/Compras/trunk/app/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocketServer.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/common/organogramas/organogramas.html",
+		"/V/products/Compras/trunk/app/node_modules/karma/node_modules/log4js/test/streams/test-rolling-file-stream",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao-compra.module.js",
+		"/V/products/Compras/trunk/app/app/ctr/solicitacao-compra/solicitacao-compra.base.js",
+		"/V/products/Compras/trunk/app/node_modules/json-server/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE",
+		"/C/Users/anderson.furlan/grunt-ngdocs-example/src.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-json-server/.idea/scopes/scope_settings.xml",
+		"/V/products/Compras/trunk/app/compras.bat",
+		"/V/products/Compras/trunk/app/app/ctr/configuracao-organograma/configuracao-organograma.controller.js",
+		"/V/products/Compras/trunk/app/node_modules/karma/node_modules/log4js/lib/connect-logger.js",
+		"/C/Users/anderson.furlan/grunt-ngdocs-example/docs/index.html",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/common/directives/input-propriedades.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/loa/parametros/parametros.html",
+		"/V/products/Compras/trunk/app/app/common/app.module.js",
+		"/V/products/Compras/trunk/app/app/common/app.constants.js",
+		"/V/products/Compras/trunk/app/app/common/app.base.js",
+		"/V/products/Compras/trunk/app/node_modules/store2/dist/app.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/components/angular-i18n/angular-locale_pl-pl.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/components/angular-i18n/angular-locale_pt-pt.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/common/app.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt/appveyor.yml",
+		"/C/Users/anderson.furlan/grunt-ngdocs-example/node_modules/grunt/appveyor.yml",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/common/parametro-orcamentario/parametro-orcamentario.html",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/ppa/parametros/parametros.inicial.html",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/loa/parametros/parametros.inicial.html",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/ldo/parametros/parametros.inicial.html",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/ldo/parametros/parametros.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/ppa/publicos-alvos/publicos-alvos.js",
+		"/V/products/Compras/trunk/app/package.json",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/components/angular-i18n/angular-locale_pl.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-clean/AUTHORS",
+		"/V/products/Compras/trunk/app/ctr/libs/angular-ui-sortable/sortable.min.js",
+		"/V/products/Compras/trunk/app/test/js/util.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/components/angular-ui-utils/ui-utils-ieshiv.js",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/components/angular-bootstrap/ui-bootstrap.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/ansi-styles/ansi-styles.js",
+		"/V/products/Compras/trunk/app/libs/angular-ui-sortable/sortable.min.js",
+		"/V/products/Compras/trunk/app/bower.json",
+		"/V/products/Compras/trunk/app/app/ctr/ctr.module.js",
+		"/V/products/Compras/trunk/app/app/ctr/unidade-medida/unidade-medida.service.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/web-animation.json",
+		"/V/products/contabil/trunk/planejamento/src/main/webapp/WEB-INF/web.xml",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-uglify/node_modules/maxmin/index.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-uglify/node_modules/chalk/index.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-htmlmin/node_modules/chalk/index.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-cssmin/node_modules/maxmin/index.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-cssmin/node_modules/clean-css/index.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-cssmin/node_modules/chalk/index.js",
+		"/V/products/Compras/trunk/app/node_modules/grunt-contrib-connect/node_modules/connect-livereload/index.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"V:\\products\\Compras\\trunk\\app\\app\\ctr\\solicitacao-compra",
+			"V:\\products\\contabil\\trunk\\planejamento\\src\\main\\webapp",
+			"V:\\products\\Compras\\trunk\\app\\app\\ctr",
+			"V:\\products\\Compras\\trunk\\app",
+			"V:\\products\\Compras\\trunk\\app\\app",
+			"V:\\products\\Compras\\trunk\\app\\app\\ctr\\solicitacao-compra",
+			"<project>",
+			"V:\\products\\Compras\\trunk\\app\\app\\ctr\\solicitacao-compra",
+			"<project>",
+			"V:\\products\\Compras\\trunk\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"moduleName",
+			"Service",
+			"EspecificacaoService",
+			"clean",
+			"connect",
+			"calculaTotal",
+			"calcula",
+			"hasItem",
+			"solicitacaoCompraCad:init",
+			"sendSolicitacaoCompra",
+			"ItensSolicitacaoCompraService",
+			"solicitacao",
+			"sendRequestSaveItem",
+			"result",
+			"getSolicitacaoCompraSelecionada",
+			"solicitacaoCompraSelecionada",
+			"solicitacaoCompraCad:init",
+			"sendSolicitacaoCompra",
+			"s",
+			"sendRequestSaveSolicitacao",
+			"Funções",
+			"data",
+			"viewModel.solicitacao ",
+			"solicitacaoCompra",
+			"data",
+			"itemProperties",
+			"solicitacaoItemType",
+			"initSolicitacao",
+			"actionSave",
+			"\n                ",
+			"add",
+			"save",
+			"saveAndAdd",
+			"data",
+			"ItensSolicitacaoCompraService",
+			"itens",
+			"-solicitacao-compra",
+			"ItensSolicitacaoCompraController",
+			"ItensSolicitacaoCompraCadController",
+			"ItensSolicitacaoController",
+			"ItensSolicitacaoCompraController",
+			"ItensSolicitacaoCompraCadController",
+			"initSolicitacao",
+			"changeNumeroItem",
+			"List",
+			"list",
+			"unidadeMedi",
+			"unidadeMediad",
+			"unidademEDIDA",
+			"solicitacaoCadGet:init",
+			"getSolicitacaoCompraSelecionada",
+			"SolicitacaoCompraService.setSolicita",
+			"SolicitacaoCompraService.setSolicitacao(vm.solicitacao);",
+			"SolicitacaoCompraService.setSolicitacao(vm.solicitacao);\n",
+			"                SolicitacaoCompraService.setSolicitacao(vm.solicitacao);\n",
+			"setSolicitacao",
+			"dragAndDropOptions",
+			"recovery",
+			"material.tipo.descricao",
+			"material.",
+			"unidadeMedida.",
+			"unidadeMedidaAbreviatura",
+			"unidadeMedida.descricao",
+			"un",
+			"unidadeMedida.descricao",
+			"unidadeMedidaDescricao",
+			"unidadeMedida.abreviatura",
+			"material",
+			"viewModel.solicitacao",
+			"button",
+			"a",
+			"SolicitacaoCompraService",
+			"save",
+			"initTrackers",
+			"tracker",
+			"$state",
+			"save",
+			"$rootscope",
+			"ItensSolicitacaoCompraCadController",
+			"setItens",
+			"getItens",
+			"SolicitacaoCompraService",
+			"solicitacaoCadGet:init",
+			"SolicitacaoCompraService",
+			"        solicitacaoId\n",
+			"        solicitacaoCompraId\n",
+			"solicitacaoCompraId",
+			"ItensSolicitacaoCompraService",
+			"\n    ",
+			"itens",
+			"actionChange",
+			"List",
+			"list",
+			"actionChange",
+			"();\n",
+			"list",
+			"List",
+			"list",
+			"getItens",
+			"viewModel.itens",
+			"setItens",
+			"getItens()",
+			"getItens",
+			"viewModel.itens",
+			"itens",
+			"viewModel.itens",
+			"viewModel.itens ",
+			"changeNumeroItem",
+			",\n",
+			"changeNumeroItem",
+			"update(event, ui)",
+			" function update(event, ui)",
+			"length1",
+			"sortable",
+			"ui-sortable",
+			"itens",
+			"itensCtrl",
+			"dragAndDropOptions",
+			"dependences",
+			"ctr",
+			"js/*.js",
+			"UnidadeMedida",
+			"            console.log(viewModel.item);\n",
+			"console.",
+			"sortable",
+			"Adicionando",
+			"Editando",
+			"unidadeMedida"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"material.tipo",
+			"viewModel.itens",
+			"getItens()",
+			"getItens();",
+			"",
+			"JsonRestangularService",
+			"isEmptySearch",
+			"data-",
+			"data-ng-",
+			"'",
+			"locaisEntrega",
+			"",
+			"data-ng-focus",
+			"viewModel",
+			"'",
+			"locais-entrega",
+			"locais_entrega",
+			"",
+			"errorDefault(error)",
+			"col-xs-12 col-sm-12 col-md",
+			"municipio",
+			"municipios",
+			"Municípios",
+			"Municipios",
+			"",
+			" Brewery",
+			"breweries/",
+			" Brewery",
+			"ToDo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ng-snippets.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 449.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ng-snippets.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rea",
+				"ng-snippets\\README.md"
+			],
+			[
+				"teste.js",
+				"app\\app\\ctr\\_modelo\\teste.js"
+			],
+			[
+				"grunt",
+				"app\\Gruntfile.js"
+			],
+			[
+				"app",
+				"app\\app\\common\\app.states.js"
+			],
+			[
+				"app.sta",
+				"app\\app\\common\\app.states.js"
+			],
+			[
+				"itenscontr",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens.controller.js"
+			],
+			[
+				"itencadcon",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-cad.controller.js"
+			],
+			[
+				"solcompc",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra-cad.html"
+			],
+			[
+				"solcad",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao\\solicitacao-cad.controller.js"
+			],
+			[
+				"inde",
+				"app\\app\\index.html.tmpl"
+			],
+			[
+				"solcompser",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.service.js"
+			],
+			[
+				"solcicompraser",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.service.js"
+			],
+			[
+				"solicitacaocompraservice",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.service.js"
+			],
+			[
+				"idnex",
+				"app\\app\\index.html.tmpl"
+			],
+			[
+				"itenssolcom",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"itenso",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"iten",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"solcomser",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.service.js"
+			],
+			[
+				"solcompcad",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itens",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"solcadc",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao\\solicitacao-cad.controller.js"
+			],
+			[
+				"solicacaocomcadjs",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itsoliccomp",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"itenscad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"isolcom",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"solicadcon",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao\\solicitacao-cad.controller.js"
+			],
+			[
+				"solicicad",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao\\solicitacao-cad.html"
+			],
+			[
+				"solcomcad",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra-cad.html"
+			],
+			[
+				"itenssol",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"itenssolcad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itensolcompra",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"solcompserv",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.service.js"
+			],
+			[
+				"solccadctrl",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itencadc",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itsolcomcad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"itensso",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"db.json",
+				"app\\db.json"
+			],
+			[
+				"solicitacacad",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao\\solicitacao-cad.controller.js"
+			],
+			[
+				"trkfa",
+				"app\\app\\ctr\\utils\\tracker.factory.js"
+			],
+			[
+				"itsolcompcad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"itenssolcompcad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itesolcomcad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"solic",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.service.js"
+			],
+			[
+				"itesoliccompracad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"itemsolcompracad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itensolcompcadcon",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"solicita",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.service.js"
+			],
+			[
+				"iscjs",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"isc",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"iscca",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"isccjs",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"iscc",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"cl",
+				"app\\node_modules\\karma\\node_modules\\log4js\\lib\\connect-logger.js"
+			],
+			[
+				"index",
+				"app\\app\\index.html"
+			],
+			[
+				"in",
+				"app\\app\\index.html.tmpl"
+			],
+			[
+				"itensol",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"appapp.js",
+				"app\\app\\common\\app.module.js"
+			],
+			[
+				"parametn",
+				"webapp\\common\\parametro-orcamentario\\parametro-orcamentario.html"
+			],
+			[
+				"app.jos",
+				"app\\app\\common\\app.config.js"
+			],
+			[
+				"indetmpl",
+				"app\\app\\index.html.tmpl"
+			],
+			[
+				"index.",
+				"app\\app\\index.html.tmpl"
+			],
+			[
+				"itenscadcont",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"webappindex",
+				"webapp\\index.html.tmpl"
+			],
+			[
+				"itesn",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"unimedser",
+				"app\\app\\ctr\\unidade-medida\\unidade-medida.service.js"
+			],
+			[
+				"unidmedsele",
+				"app\\app\\ctr\\unidade-medida\\unidade-medida.select.js"
+			],
+			[
+				"unidade",
+				"app\\app\\ctr\\unidade-medida\\unidade-medida.service.js"
+			],
+			[
+				"unidad",
+				"app\\app\\ctr\\unidade-medida\\unidade-medida.service.js"
+			],
+			[
+				"esep",
+				"app\\app\\ctr\\especificacao\\especificacao.service.js"
+			],
+			[
+				"sol",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.html"
+			],
+			[
+				"iccc",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itne",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"itensolcomphtml",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"unisele",
+				"app\\app\\ctr\\unidade-medida\\unidade-medida.select.js"
+			],
+			[
+				"dbjson",
+				"app\\db.json"
+			],
+			[
+				"itemcad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"itenss",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"itesocom",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"itecomcad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"solcomcadjs",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra-cad.controller.js"
+			],
+			[
+				"solcompca",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra-cad.html"
+			],
+			[
+				"itemsol",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"unser",
+				"app\\app\\ctr\\unidade-medida\\unidade-medida.service.js"
+			],
+			[
+				"dbj",
+				"app\\db.json"
+			],
+			[
+				"unisl",
+				"app\\app\\ctr\\unidade-medida\\unidade-medida.select.js"
+			],
+			[
+				"espesl",
+				"app\\app\\ctr\\especificacao\\especificacao.select.js"
+			],
+			[
+				"espe",
+				"app\\app\\ctr\\especificacao\\especificacao.service.js"
+			],
+			[
+				"matersl",
+				"app\\app\\ctr\\material\\material.select.js"
+			],
+			[
+				"itencad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"matesl",
+				"app\\app\\ctr\\material\\material.select.js"
+			],
+			[
+				"espes",
+				"app\\app\\ctr\\especificacao\\especificacao.select.js"
+			],
+			[
+				"item",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"organgrama.control",
+				"app\\app\\ctr\\organograma\\organograma.controller.js"
+			],
+			[
+				"solicitacon",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao-compra.controller.js"
+			],
+			[
+				"i",
+				"app\\app\\index.html.tmpl"
+			],
+			[
+				"itenscadjs",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"sele",
+				"app\\app\\ctr\\utils\\select2.factory.js"
+			],
+			[
+				"itens-sol",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.controller.js"
+			],
+			[
+				"itencadhtml",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"materialsele",
+				"app\\app\\ctr\\material\\material.select.js"
+			],
+			[
+				"materi",
+				"app\\app\\ctr\\material\\material.select.js"
+			],
+			[
+				"soliccadctl",
+				"app\\app\\ctr\\solicitacao-compra\\solicitacao\\solicitacao-cad.controller.js"
+			],
+			[
+				"especificacaoselect",
+				"app\\app\\ctr\\especificacao\\especificacao.select.js"
+			],
+			[
+				"select2",
+				"app\\app\\ctr\\utils\\select2.factory.js"
+			],
+			[
+				"modalap",
+				"app\\app\\ctr\\utils\\modal.adapter.js"
+			],
+			[
+				"itens.html",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.html"
+			],
+			[
+				"itenscompracad",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.controller.js"
+			],
+			[
+				"itensservice",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra.service.js"
+			],
+			[
+				"parametro.sjs",
+				"webapp\\loa\\parametros\\parametros.js"
+			],
+			[
+				"parametros",
+				"webapp\\loa\\parametros\\parametros.html"
+			],
+			[
+				"parametros.",
+				"webapp\\ldo\\parametros\\parametros.html"
+			],
+			[
+				"parametr",
+				"webapp\\ldo\\parametros\\parametros.js"
+			],
+			[
+				"index.html",
+				"app\\app\\index.html"
+			],
+			[
+				"loa",
+				"webapp\\loa\\loa.html"
+			],
+			[
+				"l",
+				"app\\node_modules\\grunt-karma\\LICENSE"
+			],
+			[
+				"paramet",
+				"webapp\\ldo\\parametros\\parametros.js"
+			],
+			[
+				"mater",
+				"app\\app\\ctr\\material\\material.service.js"
+			],
+			[
+				"materia",
+				"app\\app\\ctr\\material\\material.service.js"
+			],
+			[
+				"abstra",
+				"app\\app\\ctr\\utils\\abstract.service.js"
+			],
+			[
+				"dbj.",
+				"app\\db.json"
+			],
+			[
+				"especific",
+				"app\\app\\ctr\\especificacao\\especificacao.service.js"
+			],
+			[
+				"ctr.json",
+				"app\\app\\ctr\\utils\\ctr.json_server.js"
+			],
+			[
+				"mate",
+				"app\\app\\ctr\\material\\material.service.js"
+			],
+			[
+				"dbj.son",
+				"app\\db.json"
+			],
+			[
+				"empenhos",
+				"webapp\\contabil\\empenhos\\empenhos.controller.js"
+			],
+			[
+				"itens-",
+				"app\\app\\ctr\\solicitacao-compra\\itens\\itens-solicitacao-compra-cad.html"
+			],
+			[
+				"materiai",
+				"app\\app\\ctr\\material\\material.service.js"
+			],
+			[
+				"grutn",
+				"app\\Gruntfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 838.0,
+		"selected_items":
+		[
+			[
+				"",
+				"V:\\products\\Compras\\trunk\\app\\compras.sublime-project"
+			],
+			[
+				"comp",
+				"V:\\products\\Compras\\trunk\\app\\compras.sublime-project"
+			]
+		],
+		"width": 1440.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
