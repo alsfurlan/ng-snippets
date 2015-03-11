@@ -5,9 +5,9 @@ Snippets for Sublime Text (by [@alsfurlan] (https://github.com/alsfurlan)) and V
 ## Using with Sublime Text
 
 1. Clone this repo inside the user packages folder. 
-```shell
-git clone https://github.com/alsfurlan/ng-snippets.git
-```
+    ```shell
+    git clone https://github.com/alsfurlan/ng-snippets.git
+    ```
 2. Go to `Preferences >  Browse Packages... > User` and paste the `sublime-text` folder content.
 
 ### Snippets
@@ -27,13 +27,13 @@ ngservice
 
 1. Install [neosnippet] (https://github.com/Shougo/neosnippet.vim) or [snipMate] (https://github.com/garbas/vim-snipmate) plugin on your vim.
 2. Clone this repo:
-```shell
-git clone https://github.com/alsfurlan/ng-snippets.git
-```
+    ```shell
+    git clone https://github.com/alsfurlan/ng-snippets.git
+    ```
 3. For **snipMate** paste the `vim` folder content on the `~/.vim/snippets/` or `~/vimfiles/snippets/` for **Windows**.
 4. For **neosnippet** paste the `vim` folder content on your **neosnippet** snippets folder.
 
-> **NOTE:* I recommend neosnippet to use the snippets! It give less bugs and works with snipMate snippets to. [UltiSnips] (https://github.com/SirVer/ultisnips) is good to but is in Python and not VimL so it sometimes fails on Windows. 
+> **NOTE:** I recommend neosnippet to use the snippets! It give less bugs and works with snipMate snippets to. [UltiSnips] (https://github.com/SirVer/ultisnips) is good to but is in Python and not VimL so it sometimes fails on Windows. 
 
 ### Snippets
 To use this snipets enter one of this shortcuts on a JavasScript file:
