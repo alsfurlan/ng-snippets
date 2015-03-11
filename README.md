@@ -4,32 +4,28 @@ Snippets for Sublime Text (by [@alsfurlan] (https://github.com/alsfurlan)) and V
 
 ## Using with Sublime Text
 
-1. Clone this repo inside the user packages folder. 
-    ```shell
-    git clone https://github.com/alsfurlan/ng-snippets.git
-    ```
+1. Clone this repo inside the user packages folder.  
+    - `$ git clone https://github.com/alsfurlan/ng-snippets.git`
 2. Go to `Preferences >  Browse Packages... > User` and paste the `sublime-text` folder content.
 
 ### Snippets
 To use this snipets enter one of this shortcuts on a JavasScript file:
 
-```shell
-ngconfig
-ngconstant
-ngcontroller
-ngdirective
-ngfactory
-ngmodule
-ngservice
-```
+
+- `ngconfig`
+- `ngconstant`  
+- `ngcontroller`
+- `ngdirective`  
+- `ngfactory`
+- `ngmodule`
+- `ngservice`  
+
 
 ## Using with Vim
 
 1. Install [neosnippet] (https://github.com/Shougo/neosnippet.vim) or [snipMate] (https://github.com/garbas/vim-snipmate) plugin on your vim.
-2. Clone this repo:
-    ```shell
-    git clone https://github.com/alsfurlan/ng-snippets.git
-    ```
+2. Clone this repo:  
+    - `git clone https://github.com/alsfurlan/ng-snippets.git`
 3. For **snipMate** paste the `vim` folder content on the `~/.vim/snippets/` or `~/vimfiles/snippets/` for **Windows**.
 4. For **neosnippet** paste the `vim` folder content on your **neosnippet** snippets folder.
 
@@ -38,17 +34,17 @@ ngservice
 ### Snippets
 To use this snipets enter one of this shortcuts on a JavasScript file:
 
-```shell
-ngconfig
-ngconstant
-ngcontroller
-ngdirective
-ngfactory
-ngmodule or ngm or nginit
-ngservice
-ngdoc
-nginjec
-```
+`
+- `ngconfig`
+- `ngconstant`  
+- `ngcontroller`
+- `ngdirective`  
+- `ngfactory`
+- `ngmodule or ngm or nginit`
+- `ngservice`
+- `ngdoc`
+- `nginject`
+`
 
 ## License
 
