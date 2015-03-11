@@ -1,19 +1,17 @@
 # ng-snippets
 
-Snippets para Sublime Text com os principais recursos do AngularJS
-baseado no [Angular Style Guide de John Papa] (https://github.com/johnpapa/angular-styleguide)
+Snippets for Sublime Text with the key features of AngularJS based on the [Angular Style Guide John Papa](https://github.com/johnpapa/angular-styleguide)
 
-## Instalação
+## Installation
 
-Clonar este repositório dentro da pasta dos pacotes do sublime. Para isso vá em `Preferences >  Browse Packages... > ` e execute o comando
+Clone this repository within the folder of the sublime packages. To do this go to `Preferences> Browse Packages ...>` and run the command:
 ```shell
 git clone https://github.com/alsfurlan/ng-snippets.git
 ```
 
 ## Snippets
 
-Para utilizar os snippets digite os atalhos abaixo em um arquivo JavaScript
-
+To use snippets enter the shortcuts below in a JavaScript file
 ```shell
 ngconfig
 ngconstant
