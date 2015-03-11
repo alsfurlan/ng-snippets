@@ -1,0 +1,81 @@
+snippet ngconfig
+abbr ngConfig
+    angular.module('${1:module}')
+        .config(${2:Name});
+
+    function $2(${3:dependencies}) {
+        ${0://content}
+    }
+
+snippet ngconstant
+abbr ngConstant
+    angular.module('${1:module}')
+		.constant('${2:constant}', '${3:value}');${0}
+
+snippet ngcontroller
+abbr ngController
+    angular.module('${1:module}')
+        .controller('${2:Name}Controller', $2Controller);
+
+    function $2Controller(${3:dependencies}) {
+        var vm = this;
+        ${0://content}
+
+        init();
+
+        function init() {
+
+        }
+    }
+
+snippet ngdirective
+abbr ngDirective
+    angular.module('${1:module}')
+        .directive('${2:directive}', $2Directive);
+
+    function $2Directive() {
+        return{
+            restrict: 'EA',
+            templateUrl: '${3:templateUrl}',
+            controller: '${4:controller}Controller',
+            controllerAs: '${5:vm}'
+        };
+    }${0}
+
+snippet ngfactory
+abbr ngFactory
+    angular.module('${1:module}')
+        .factory('${2:Name}Factory', $2Factory);
+
+    function $2Factory(${3:dependencies}) {
+        ${0://content}
+    }
+
+snippet ngmodule
+alias nginit ngm
+abbr ngModule
+		angular.module('${1:module}', ['${2:dependencies}'])${0}
+
+snippet ngservice
+snippet ngservice
+    angular.module('${1:module}')
+        .service('$2Service', $2Service);
+
+    function ${2:Name}Service(${3:dependencies}) {
+        ${0://content}
+    }
+
+snippet     ngdoc
+abbr        Angular Documentation
+options     head
+    /**
+    * @ngdoc ${1:tipo}
+    * @name ${2:Name}
+    * @description
+    * $2 of the ${4:module}
+    */
+
+snippet     nginject
+abbr        Angular Dependency Injector
+   ${1:FunctionName}.$inject = ['${2:dependencies}'];${0}
+    

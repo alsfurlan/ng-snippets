@@ -1,18 +1,17 @@
 # ng-snippets
 
-Snippets para Sublime Text com os principais recursos do AngularJS,
-baseado no [Angular Style Guide de John Papa] (https://github.com/johnpapa/angular-styleguide)
+Snippets for Sublime Text (by [@alsfurlan] (https://github.com/alsfurlan)) and Vim (by [@brunoti] (https://github.com/brunoti)) with all the main features of AngularJS based on [John Papa's Angular Style Guide] (https://github.com/johnpapa/angular-styleguide).
 
-## Instalação
+## Using with Sublime Text
 
-Clonar este repositório dentro da pasta dos pacotes de usuário. Para isso vá em `Preferences >  Browse Packages... > User` e execute o comando
+1. Clone this repo inside the user packages folder. 
 ```shell
 git clone https://github.com/alsfurlan/ng-snippets.git
 ```
+2. Go to `Preferences >  Browse Packages... > User` and paste the `sublime-text` folder content.
 
-## Snippets
-
-Para utilizar os snippets digite os atalhos abaixo em um arquivo JavaScript
+### Snippets
+To use this snipets enter one of this shortcuts on a JavasScript file:
 
 ```shell
 ngconfig
@@ -22,6 +21,33 @@ ngdirective
 ngfactory
 ngmodule
 ngservice
+```
+
+## Using with Vim
+
+1. Install [neosnippet] (https://github.com/Shougo/neosnippet.vim) or [snipMate] (https://github.com/garbas/vim-snipmate) plugin on your vim.
+2. Clone this repo:
+```shell
+git clone https://github.com/alsfurlan/ng-snippets.git
+```
+3. For **snipMate** paste the `vim` folder content on the `~/.vim/snippets/` or `~/vimfiles/snippets/` for **Windows**.
+4. For **neosnippet** paste the `vim` folder content on your **neosnippet** snippets folder.
+
+> **NOTE:* I recommend neosnippet to use the snippets! It give less bugs and works with snipMate snippets to. [UltiSnips] (https://github.com/SirVer/ultisnips) is good to but is in Python and not VimL so it sometimes fails on Windows. 
+
+### Snippets
+To use this snipets enter one of this shortcuts on a JavasScript file:
+
+```shell
+ngconfig
+ngconstant
+ngcontroller
+ngdirective
+ngfactory
+ngmodule or ngm or nginit
+ngservice
+ngdoc
+nginjec
 ```
 
 ## License
