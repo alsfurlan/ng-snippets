@@ -1,6 +1,6 @@
 # ng-snippets
 
-Snippets for Sublime Text with the key features of AngularJS based on the [Angular Style Guide John Papa](https://github.com/johnpapa/angular-styleguide)
+Snippets for Sublime Text with the key features of AngularJS based on the [John Papa's Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
 ## Installation
 
