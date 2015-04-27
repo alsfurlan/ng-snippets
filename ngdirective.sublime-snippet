@@ -13,12 +13,11 @@
 			templateUrl: ${4:templateUrl},
 			replace: ${5:replace},
 			scope: ${6:scope},
-			transclude: Boolean,
-			controller: ${controller}
-			controllerAs: ${controllerAs},
-			require: ${require},
-			link: ${linkFunction}
-			compile: {$compileFunction}
+			controller: ${7:controller}
+			controllerAs: ${8:controllerAs},
+			require: ${9:require},
+			link: ${10:linkFunction}
+			compile: ${11:compileFunction}
 		};
 	}
 })();
