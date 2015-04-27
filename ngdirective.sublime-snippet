@@ -5,14 +5,20 @@
 
 	angular
 	  .module('${1:module}')
-	  .directive('${1:module}${2:directive}', ${2:directive}Directive);
+	  .directive('${2:directive}', ${2:directive}Directive);
 
 	function ${2:directive}Directive() {
 		return{
-			restrict: 'EA',
-			templateUrl: '${3:templateUrl}',
-			controller: '${4:controller}Controller',
-			controllerAs: '${5:controllerAs}'
+			restrict: ${3:EACM},
+			templateUrl: ${4:templateUrl},
+			replace: ${5:replace},
+			scope: ${6:scope},
+			transclude: Boolean,
+			controller: ${controller}
+			controllerAs: ${controllerAs},
+			require: ${require},
+			link: ${linkFunction}
+			compile: {$compileFunction}
 		};
 	}
 })();
