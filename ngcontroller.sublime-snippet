@@ -10,14 +10,7 @@
 	${2:Name}Controller.\$inject = ['${4:dependencies}'];
 
 	function ${2:Name}Controller(${4:dependencies}) {
-		var viewModel = this;
 		${5://content}
-
-		init();
-
-		function init() {
-
-		}
 	}
 })();
 ]]>
