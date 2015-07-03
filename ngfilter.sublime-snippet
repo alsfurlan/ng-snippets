@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+(function() {
+
+	'use strict';
+
+	angular
+	  .module('${1:module}')
+	  .filter('${2:Name}', ${2:Name}Filter);
+
+	${2:Name}Filter.\$inject = ['${4:dependencies}'];
+
+	function ${2:Name}Filter(${4:dependencies}) {
+		${5://content}
+	}
+})();
+]]>
+	</content>
+   	<tabTrigger>ngfilter</tabTrigger> 	
+	<scope>source.js</scope>
+</snippet>

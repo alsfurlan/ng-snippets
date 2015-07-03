@@ -20,4 +20,5 @@ ngdirective
 ngfactory
 ngmodule
 ngservice
+ngfilter
 ```
