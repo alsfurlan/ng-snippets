@@ -18,7 +18,8 @@ ngconstant
 ngcontroller
 ngdirective
 ngfactory
+ngfilter
 ngmodule
 ngservice
-ngfilter
+ngvalue
 ```
