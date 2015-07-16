@@ -1,0 +1,17 @@
+ng-snippets
+===========
+
+Snippets for Sublime Text with the key features of AngularJS based on the John Papa's Angular Style Guide
+(https://github.com/johnpapa/angular-styleguide)
+
+To use snippets enter the shortcuts below in a JavaScript file:
+
+- ngconfig
+- ngconstant
+- ngcontroller
+- ngdirective
+- ngfactory
+- ngfilter
+- ngmodule
+- ngservice
+- ngvalue
