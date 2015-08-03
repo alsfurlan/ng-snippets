@@ -9,15 +9,15 @@
 
 	function ${2:directive}Directive() {
 		return{
-			restrict: ${3:EACM},
-			templateUrl: ${4:templateUrl},
-			replace: ${5:replace},
-			scope: ${6:scope},
-			controller: ${7:controller}
-			controllerAs: ${8:controllerAs},
+			controller: '${3:controller}',
+			controllerAs: '${4:controllerAs}',
+			compile: ${5:compileFunction},
+			link: ${6:linkFunction},
+			replace: ${7:true}${8:false},
 			require: ${9:require},
-			link: ${10:linkFunction}
-			compile: ${11:compileFunction}
+			restrict: '${10:EACM}',
+			scope: ${11:scope},
+			templateUrl: '${12:templateUrl}'
 		};
 	}
 })();
