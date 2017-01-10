@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+(function() {
+	'use strict';
+
+	angular
+	  .module('${1:module}')
+	  .provider('${2:Name}', ${2:Name}Provider);
+
+	${2:Name}Provider.\$inject = ['${4:dependencies}'];
+
+	function ${2:Name}Provider(${4:dependencies}) {
+		
+		this.\$get = ${2:Name};
+
+		${2:Name}.\$inject = ['${6:dependencies}'];
+
+		function ${2:Name}(${6:dependencies}){
+		
+		}
+	}
+})();
+]]>
+	</content>
+   	<tabTrigger>ngprovider</tabTrigger> 	
+	<scope>source.js</scope>
+</snippet>

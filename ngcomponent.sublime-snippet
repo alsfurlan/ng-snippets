@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+(function() {
+	'use strict';
+
+	angular
+	  .module('${1:module}')
+	  .component('${2:Name}Component', {
+	  	controller: ${2:Name}Controller,
+	  	controllerAs: 'vm',
+	  	templateUrl: ${3:html},
+	  	bindings:{ 
+	  	}
+	  });
+
+	${2:Name}Controller.\$inject = ['${4:dependencies}'];
+
+	function ${2:Name}Controller(${4:dependencies}) {
+		var vm = this;
+		${5://content}
+	}
+})();
+]]>
+	</content>
+   	<tabTrigger>ngcomponent</tabTrigger> 	
+	<scope>source.js</scope>
+</snippet>
