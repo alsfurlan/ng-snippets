@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+(function() {
+  'use strict';
+
+  describe('${1:module} Test', function() {
+    it('contains a spec with an expectation', function() {
+      expect(true).toBe(true);
+    });
+  });
+})();
+]]>
+  </content>
+    <tabTrigger>ngtest</tabTrigger>   
+  <scope>source.js</scope>
+</snippet>
