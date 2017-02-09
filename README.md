@@ -22,4 +22,7 @@ ngfilter
 ngmodule
 ngservice
 ngvalue
+ngcomponent
+ngprovider
+ngrun
 ```

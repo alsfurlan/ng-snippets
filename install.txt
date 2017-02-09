@@ -15,3 +15,6 @@ To use snippets enter the shortcuts below in a JavaScript file:
 - ngmodule
 - ngservice
 - ngvalue
+- ngcomponent
+- ngrun
+- ngprovider
